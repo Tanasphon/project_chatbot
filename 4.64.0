@@ -1,0 +1,6 @@
+Collecting tqdm
+  Using cached tqdm-4.67.1-py3-none-any.whl.metadata (57 kB)
+Requirement already satisfied: colorama in c:\users\user\appdata\local\programs\python\python310\lib\site-packages (from tqdm) (0.4.6)
+Using cached tqdm-4.67.1-py3-none-any.whl (78 kB)
+Installing collected packages: tqdm
+Successfully installed tqdm-4.67.1

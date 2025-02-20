@@ -1,0 +1,261 @@
+{
+    "games": [
+        {
+            "title": "The Legend of Zelda: Breath of the Wild",
+            "platform": "Nintendo Switch",
+            "genre": "Action-Adventure, Open World",
+            "release_date": "2017-03-03",
+            "description": "เกมแอคชันผจญภัยในโลกเปิดกว้าง ผู้เล่นรับบทเป็น Link ผู้ต้องช่วยกู้อาณาจักร Hyrule",
+            "features": ["Open World", "Puzzle Solving", "Combat", "Exploration"],
+            "rating": 97,
+            "multiplayer": false,
+            "price": 1799,
+            "developer": "Nintendo",
+            "similar_games": ["Genshin Impact", "Immortals Fenyx Rising"]
+        },
+        {
+            "title": "The Witcher 3: Wild Hunt",
+            "platform": "PC, PS4, Xbox One",
+            "genre": "RPG",
+            "release_date": "2015-05-19",
+            "description": "A story-driven open world RPG set in a visually stunning fantasy universe full of meaningful choices and impactful consequences."
+        },
+        {
+            "title": "Minecraft",
+            "platform": "PC, PS4, Xbox One, Nintendo Switch",
+            "genre": "Sandbox",
+            "release_date": "2011-11-18",
+            "description": "A game about placing blocks and going on adventures."
+        },
+        {
+            "title": "Elden Ring",
+            "title_th": "เอลเดนริง",
+            "platform": "PS5, Xbox Series X/S, PC",
+            "genre": "Action RPG, Souls-like",
+            "genre_th": "แอคชัน RPG, โซลไลค์",
+            "release_date": "2022-02-25",
+            "description": "A challenging action RPG set in a vast open world, developed by FromSoftware in collaboration with George R.R. Martin",
+            "description_th": "เกม RPG แนว Souls-like ที่พัฒนาโดย FromSoftware ร่วมกับ George R.R. Martin ในโลกแฟนตาซีสุดกว้างใหญ่",
+            "features": ["Open World", "Challenging Combat", "Character Customization", "Rich Lore"],
+            "features_th": ["โลกเปิดกว้าง", "การต่อสู้ท้าทาย", "ปรับแต่งตัวละคร", "เนื้อเรื่องลึกซึ้ง"],
+            "rating": 96,
+            "multiplayer": true,
+            "price": 1899,
+            "developer": "FromSoftware",
+            "similar_games": ["Dark Souls", "Bloodborne", "Demon's Souls", "Nioh"],
+            "player_count": "1-4 players",
+            "player_count_th": "1-4 ผู้เล่น",
+            "system_requirements": {
+                "minimum": {
+                    "os": "Windows 10",
+                    "cpu": "Intel Core i5-8400 or AMD Ryzen 3 3300X",
+                    "gpu": "NVIDIA GeForce GTX 1060 3GB",
+                    "ram": "12GB RAM",
+                    "storage": "60GB"
+                },
+                "recommended": {
+                    "os": "Windows 10/11",
+                    "cpu": "Intel Core i7-8700K or AMD Ryzen 5 3600X",
+                    "gpu": "NVIDIA GeForce GTX 1070 8GB",
+                    "ram": "16GB RAM",
+                    "storage": "60GB SSD"
+                }
+            }
+        },
+        {
+            "title": "God of War Ragnarök",
+            "platform": "PS4, PS5",
+            "genre": "Action-Adventure",
+            "release_date": "2022-11-09",
+            "description": "การผจญภัยของ Kratos และ Atreus ในตำนานนอร์ส ต่อสู้กับเทพเจ้าและสัตว์ประหลาด",
+            "features": ["Story-Driven", "Combat", "Norse Mythology"],
+            "rating": 94,
+            "multiplayer": false,
+            "price": 1899,
+            "developer": "Santa Monica Studio",
+            "similar_games": ["God of War (2018)", "Devil May Cry 5"]
+        },
+        {
+            "title": "Cyberpunk 2077",
+            "title_th": "ไซเบอร์พังค์ 2077",
+            "platform": "PC, PS4, PS5, Xbox One, Xbox Series X/S",
+            "genre": "Action RPG, Open World",
+            "genre_th": "แอคชัน RPG, โลกเปิด",
+            "release_date": "2020-12-10",
+            "description": "An open-world action RPG set in Night City, a megalopolis obsessed with power, glamour and body modification",
+            "description_th": "เกม RPG แนวไซเบอร์พังค์ในเมือง Night City ที่คลั่งไคล้อำนาจ ความหรูหรา และการดัดแปลงร่างกาย",
+            "features": ["Immersive Story", "Character Customization", "Multiple Endings", "Cyberpunk Setting"],
+            "features_th": ["เนื้อเรื่องน่าติดตาม", "ปรับแต่งตัวละคร", "หลายตอนจบ", "ฉากไซเบอร์พังค์"],
+            "rating": 86,
+            "multiplayer": false,
+            "price": 1699,
+            "developer": "CD Projekt RED",
+            "similar_games": ["The Witcher 3", "Deus Ex", "GTA V"],
+            "player_count": "Single-player",
+            "player_count_th": "ผู้เล่นเดี่ยว",
+            "system_requirements": {
+                "minimum": {
+                    "os": "Windows 7",
+                    "cpu": "Intel Core i5-3570K or AMD FX-8310",
+                    "gpu": "NVIDIA GeForce GTX 780 or AMD Radeon RX 470",
+                    "ram": "8GB RAM",
+                    "storage": "70GB"
+                },
+                "recommended": {
+                    "os": "Windows 10",
+                    "cpu": "Intel Core i7-4790 or AMD Ryzen 3 3200G",
+                    "gpu": "NVIDIA GeForce GTX 1060 or AMD Radeon R9 Fury",
+                    "ram": "12GB RAM",
+                    "storage": "70GB SSD"
+                }
+            }
+        },
+        {
+            "title": "Counter-Strike 2",
+            "title_th": "เคาน์เตอร์-สไตรค์ 2",
+            "platform": "PC (Steam)",
+            "genre": "FPS, Tactical Shooter",
+            "genre_th": "ยิงมุมมองที่หนึ่ง, แท็คติคอลชูตเตอร์",
+            "release_date": "2023-09-27",
+            "description": "The next evolution of Counter-Strike, featuring updated graphics, improved mechanics and modernized gameplay",
+            "description_th": "วิวัฒนาการใหม่ของ Counter-Strike พร้อมกราฟิกที่อัปเดต กลไกที่ปรับปรุง และการเล่นที่ทันสมัย",
+            "features": ["5v5 Competitive", "Realistic Gunplay", "Strategic Gameplay", "Custom Maps"],
+            "features_th": ["แข่งขัน 5v5", "การยิงสมจริง", "เกมเพลย์เชิงกลยุทธ์", "แผนที่กำหนดเอง"],
+            "rating": 88,
+            "multiplayer": true,
+            "price": "Free to Play",
+            "developer": "Valve",
+            "player_count": "5v5",
+            "player_count_th": "5v5",
+            "system_requirements": {
+                "minimum": {
+                    "os": "Windows 10",
+                    "cpu": "Intel Core i5-4460 or AMD Ryzen 3 1200",
+                    "gpu": "NVIDIA GTX 960 or AMD RX 470",
+                    "ram": "8GB RAM",
+                    "storage": "85GB"
+                },
+                "recommended": {
+                    "os": "Windows 10/11",
+                    "cpu": "Intel Core i5-7600K or AMD Ryzen 5 1600",
+                    "gpu": "NVIDIA GTX 1060 or AMD RX 580",
+                    "ram": "12GB RAM",
+                    "storage": "85GB SSD"
+                }
+            }
+        },
+        {
+            "title": "Red Dead Redemption 2",
+            "title_th": "เรด เดด รีเดมชั่น 2",
+            "platform": "PC (Steam, Epic), PS4, Xbox One",
+            "genre": "Action-Adventure, Open World",
+            "genre_th": "แอคชันผจญภัย, โลกเปิด",
+            "release_date": "2018-10-26",
+            "description": "Epic tale of life in America's unforgiving heartland. The game's vast and atmospheric world also provides the foundation for a brand new online multiplayer experience",
+            "description_th": "มหากาพย์ชีวิตในดินแดนอเมริกาที่โหดร้าย พร้อมโลกกว้างที่สวยงามและระบบมัลติเพลเยอร์ออนไลน์",
+            "features": ["Stunning Graphics", "Immersive Story", "Detailed World", "Online Mode"],
+            "features_th": ["กราฟิกสวยงาม", "เนื้อเรื่องน่าติดตาม", "โลกที่มีรายละเอียดสูง", "โหมดออนไลน์"],
+            "rating": 97,
+            "multiplayer": true,
+            "price": 1899,
+            "developer": "Rockstar Games",
+            "similar_games": ["GTA V", "The Witcher 3", "Assassin's Creed"],
+            "player_count": "Single-player, Online Multiplayer",
+            "player_count_th": "เล่นคนเดียว, ออนไลน์มัลติเพลเยอร์"
+        },
+        {
+            "title": "Baldur's Gate 3",
+            "title_th": "บอลเดอร์ส เกต 3",
+            "platform": "PC (Steam), PS5",
+            "genre": "RPG, Turn-based Strategy",
+            "genre_th": "อาร์พีจี, กลยุทธ์ผลัดกันเล่น",
+            "release_date": "2023-08-03",
+            "description": "A next-generation RPG set in the Dungeons & Dragons universe, featuring turn-based combat and deep character customization",
+            "description_th": "เกม RPG รุ่นใหม่ในจักรวาล D&D พร้อมการต่อสู้แบบผลัดกันและการปรับแต่งตัวละครที่ลึกซึ้ง",
+            "features": ["Rich Story", "Character Creation", "Co-op Play", "Choice & Consequence"],
+            "features_th": ["เนื้อเรื่องเข้มข้น", "สร้างตัวละคร", "เล่นร่วมกัน", "ทางเลือกและผลลัพธ์"],
+            "rating": 96,
+            "price": 1899,
+            "developer": "Larian Studios"
+        },
+        {
+            "title": "Final Fantasy XVI",
+            "title_th": "ไฟนอล แฟนตาซี 16",
+            "platform": "PS5",
+            "genre": "Action RPG",
+            "genre_th": "แอคชัน RPG",
+            "release_date": "2023-06-22",
+            "description": "A dark fantasy world where the fate of the land is decided by Dominants, wielders of devastating Eikon powers",
+            "description_th": "โลกแฟนตาซีมืดที่ชะตากรรมของดินแดนถูกกำหนดโดย Dominants ผู้ควบคุมพลัง Eikon",
+            "features": ["Action Combat", "Epic Story", "High Production Values"],
+            "features_th": ["การต่อสู้แอคชัน", "เรื่องราวยิ่งใหญ่", "งานสร้างคุณภาพสูง"],
+            "rating": 92,
+            "price": 2299,
+            "developer": "Square Enix"
+        },
+        {
+            "title": "The Legend of Zelda: Tears of the Kingdom",
+            "title_th": "เดอะ เลเจนด์ ออฟ เซลด้า: เทียร์ส ออฟ เดอะ คิงดอม",
+            "platform": "Nintendo Switch",
+            "genre": "Action-Adventure, Open World",
+            "genre_th": "แอคชันผจญภัย, โลกเปิด",
+            "release_date": "2023-05-12",
+            "description": "An epic adventure across the land and skies of Hyrule, featuring new abilities and crafting mechanics",
+            "description_th": "การผจญภัยอันยิ่งใหญ่บนผืนดินและท้องฟ้าแห่ง Hyrule พร้อมความสามารถใหม่และระบบการสร้างไอเทม",
+            "features": ["Vast World", "Creative Gameplay", "Puzzle Solving"],
+            "features_th": ["โลกกว้างใหญ่", "เกมเพลย์สร้างสรรค์", "การแก้ปริศนา"],
+            "rating": 96,
+            "price": 1999,
+            "developer": "Nintendo"
+        }
+    ],
+    "genres": [
+        {
+            "name": "FPS",
+            "name_th": "เกมยิงมุมมองที่หนึ่ง",
+            "description": "First-person shooter games focusing on weapon-based combat from a first-person perspective",
+            "description_th": "เกมยิงที่เน้นการต่อสู้ด้วยอาวุธในมุมมองบุคคลที่หนึ่ง",
+            "popular_features": ["Competitive Multiplayer", "Weapon Variety", "Team-based Gameplay"],
+            "popular_features_th": ["การแข่งขันหลายผู้เล่น", "อาวุธหลากหลาย", "เกมเพลย์แบบทีม"]
+        },
+        {
+            "name": "Action RPG",
+            "name_th": "แอคชัน RPG",
+            "description": "Games that combine action combat with RPG elements",
+            "description_th": "เกมที่ผสมผสานการต่อสู้แบบแอคชันกับระบบ RPG",
+            "popular_features": ["Real-time Combat", "Character Progression", "Loot Systems"],
+            "popular_features_th": ["การต่อสู้เรียลไทม์", "การพัฒนาตัวละคร", "ระบบไอเทม"]
+        },
+        {
+            "name": "Open World",
+            "name_th": "โลกเปิด",
+            "description": "Games that offer a large, open environment for players to explore",
+            "description_th": "เกมที่ให้อิสระในการสำรวจโลกกว้าง",
+            "popular_features": ["Free Exploration", "Side Quests", "Dynamic Events"],
+            "popular_features_th": ["การสำรวจอิสระ", "ภารกิจเสริม", "เหตุการณ์แบบไดนามิก"]
+        }
+    ],
+    "platforms": {
+        "steam": {
+            "name": "Steam",
+            "description": "PC gaming platform by Valve",
+            "description_th": "แพลตฟอร์มเกม PC โดย Valve",
+            "features": ["Cloud Saves", "Workshop Support", "Community Features"],
+            "features_th": ["บันทึกบนคลาวด์", "รองรับเวิร์กช็อป", "ฟีเจอร์ชุมชน"]
+        },
+        "ps5": {
+            "name": "PlayStation 5",
+            "description": "Next-gen console by Sony",
+            "description_th": "คอนโซลรุ่นใหม่จาก Sony",
+            "features": ["4K Gaming", "Ray Tracing", "DualSense Controller"],
+            "features_th": ["เกม 4K", "เรย์เทรซิ่ง", "จอยคอน DualSense"]
+        },
+        "switch": {
+            "name": "Nintendo Switch",
+            "description": "Hybrid gaming console",
+            "description_th": "คอนโซลแบบไฮบริด",
+            "features": ["Portable Gaming", "Local Multiplayer", "Nintendo Exclusives"],
+            "features_th": ["เล่นพกพา", "มัลติเพลเยอร์ในที่เดียวกัน", "เกมเฉพาะของนินเทนโด"]
+        }
+    }
+} 
